@@ -1,0 +1,31 @@
+"*":
+  "autocomplete-python":
+    useKite: false
+  "bracket-matcher":
+    highlightMatchingLineNumber: true
+  core:
+    telemetryConsent: "no"
+    uriHandlerRegistration: "always"
+  editor:
+    fontSize: 20
+  "exception-reporting":
+    userId: "34bd864c-06b6-48b1-b71a-0617c209818d"
+  "linter-ui-default":
+    showPanel: true
+  minimap:
+    charHeight: 4
+    charWidth: 2
+    moveCursorOnMinimapClick: true
+    plugins:
+      "highlight-selected": true
+      "highlight-selectedDecorationsZIndex": 0
+      pigments: true
+      pigmentsDecorationsZIndex: 0
+    scrollAnimation: true
+  "sync-settings":
+    _lastBackupHash: "76d214275570cef34177647ee55ba69ea9ba906d"
+    gistId: "7f617ef87215b0bf7c1a9695b9c0621f"
+    personalAccessToken: "fb388571b284a26d58a1acf4eceb73b468931178"
+    syncPackages: false
+  welcome:
+    showOnStartup: false
